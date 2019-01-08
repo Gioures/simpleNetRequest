@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.author             = { "Gioures" => "756119874@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/Gioures/simpleNetRequest.git", :tag => "#{s.version}" }
-  s.source_files  = "NetWork/**"
+  s.source_files  = "simpleNetRequest/NetWork/**"
 end
