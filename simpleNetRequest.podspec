@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "simpleNetRequest"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "简单网络请求"
   s.description  = <<-DESC
 			非常简单的网络请求，当项目中与AFNetworking冲突的时候使用
